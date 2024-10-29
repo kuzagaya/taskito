@@ -8,6 +8,7 @@ import RightSidebar from "./components/RightSidebar";
 import initialItems from "./lib/constants";
 import MobileDevice from "./components/MobileDevice";
 import { useMobileDetect } from "./hooks/useMobile";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
 
@@ -166,6 +167,7 @@ export default function App() {
 
   return (
     <>
+      <Analytics />
       {isMobile ?
         <MobileDevice /> :
         <>
