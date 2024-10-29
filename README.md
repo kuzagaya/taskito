@@ -46,7 +46,7 @@ npm install
 4. Start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
 5. Open your browser and navigate to `localhost` to see the app in action.
