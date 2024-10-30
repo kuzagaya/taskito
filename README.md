@@ -34,7 +34,7 @@ https://github.com/kuzagaya/taskito.git
 2. Navigate to the project directory:
 
 ```bash
-cd todo-app
+cd taskito
 ```
 
 3. Install the dependencies:
