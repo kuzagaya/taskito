@@ -28,7 +28,7 @@ To get started, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kuzagaya/todo-app.git
+https://github.com/kuzagaya/taskito.git
 ```
 
 2. Navigate to the project directory:
